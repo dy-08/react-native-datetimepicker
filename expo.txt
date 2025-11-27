@@ -1,8 +1,0 @@
-project
-npx create-expo-app 폴더명 --template blank
-
-run
-npx expo start --clear --tunnel
-
-picker install
-npx expo install @react-native-community/datetimepicker
